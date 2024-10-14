@@ -18,7 +18,7 @@ The project is written in Python and uses libraries such as `numpy`, `opencv`.
 
 ## Features
 
-- **Stanley Controller**: Adjusts the steering angle based on cross-track and heading errors to follow a desired path.
+- **Edited Stanley Controller**: Adjusts the steering angle based on cross-track and heading errors to follow a desired path.
 - **Real-time visualization**: Displays the robot’s path and position using OpenCV.
 - **Noise simulation**: Adds randomness to steering inputs to simulate real-world vehicle dynamics.
 - **Feedback mechanism**: Uses both position and orientation feedback for control.
