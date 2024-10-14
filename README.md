@@ -3,7 +3,7 @@ Vehicle Localization and Control Simulation based on non-holonomic kinematics ba
 
 ## Description
 
-This project simulates a 2D robotic vehicle using a Stanley Controller for autonomous steering. The vehicle operates in both a global and local frame, navigating through a virtual world using feedback from its position and orientation.
+This project simulates a 2D robotic vehicle using a Controller for autonomous steering. The vehicle operates in both a global and local frame, navigating through a virtual world using feedback from its position and orientation.
 
 The simulation includes:
 - **Real-world dynamics**: Continuous updates of the robot’s position, velocity, and steering.
