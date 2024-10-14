@@ -12,7 +12,7 @@ The simulation includes:
 - **OpenCV Visualization**: Displays the robot's movement using OpenCV to track its local and global positions.
 - **Control noise simulation**: Adds steering noise to simulate real-world control imperfections.
 
-The project is written in Python and uses libraries such as `numpy`, `opencv-python`, and `math`.
+The project is written in Python and uses libraries such as `numpy`, `opencv`.
 
 ---
 
